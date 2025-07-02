@@ -1,0 +1,46 @@
+# Data files - prevent datasets from being committed
+data/
+*.csv
+*.xlsx
+*.xls
+
+# MLflow artifacts
+mlruns/
+mlflow.db
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+.env
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model artifacts and outputs
+models/
+outputs/
+artifacts/
+plots/
+*.pkl
+*.joblib

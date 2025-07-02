@@ -1,0 +1,51 @@
+{
+  "model_type": "RandomForestRegressor",
+  "pipeline_steps": [
+    "preprocessor",
+    "regressor"
+  ],
+  "categorical_features": [
+    "Country",
+    "City",
+    "Program",
+    "Level"
+  ],
+  "numerical_features": [
+    "Duration_Years",
+    "Living_Cost_Index",
+    "Exchange_Rate",
+    "Tuition_USD",
+    "Rent_USD",
+    "Visa_Fee_USD",
+    "Insurance_USD"
+  ],
+  "feature_columns": [
+    "Country",
+    "City",
+    "Program",
+    "Level",
+    "Duration_Years",
+    "Living_Cost_Index",
+    "Exchange_Rate",
+    "Tuition_USD",
+    "Rent_USD",
+    "Visa_Fee_USD",
+    "Insurance_USD"
+  ],
+  "target_column": "TCA",
+  "training_data_shape": [
+    907,
+    11
+  ],
+  "performance_metrics": {
+    "cross_val_r2_mean": 0.9945338003547306,
+    "cross_val_r2_std": 0.003668134489533819,
+    "cross_val_mae_mean": 833.1453709389805,
+    "test_r2": 0.9987273950781173,
+    "test_mae": 492.9161387971591,
+    "test_rmse": 742.8817253507567
+  },
+  "created_date": "2025-06-27 12:53:31",
+  "model_version": "1.0",
+  "description": "Production TCA prediction model trained on complete dataset"
+}

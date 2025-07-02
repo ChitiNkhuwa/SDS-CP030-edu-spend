@@ -1,11 +1,16 @@
 # Frank Brown - EduSpend Analysis
 
 ## Overview
-This folder contains my contribution to the **EduSpend: Global Higher-Education Cost Analytics & Planning** project. I'm focusing on exploratory data analysis (EDA) to understand the factors affecting international education costs.
+This folder contains my contribution to the **EduSpend: Global Higher-Education Cost Analytics & Planning** project. I'm focusing on exploratory data analysis (EDA), predictive modeling, and interactive visualization to understand and forecast international education costs.
 
 ## Files
-- `01_EDA_EduSpend.ipynb` - Main Jupyter notebook containing the exploratory data analysis
+- `01_EDA_EduSpend.ipynb` - Exploratory data analysis notebook
+- `02_Model_Development_EduSpend.ipynb` - Model development and evaluation notebook
+- `03_Model_Deployment_EduSpend.ipynb` - Model deployment and interactive tools notebook
+- `app.py` - Streamlit web application for interactive analysis
 - `data/` - Directory containing the dataset files
+- `models/` - Trained machine learning models
+- `images/` - Visualizations and plots
 - `README.md` - This documentation file
 
 ## Analysis Approach
@@ -27,46 +32,91 @@ This folder contains my contribution to the **EduSpend: Global Higher-Education 
 - Applied color-coded palettes for better visual distinction
 - Focused on identifying outliers and understanding cost patterns
 
-## Key Findings (Work in Progress)
+## Key Findings
 
 ### Geographic Patterns
-- [To be completed as analysis progresses]
+- Significant variation in costs across countries and cities
+- Strong correlation between living costs and location
+- Regional clusters of similar cost structures identified
 
 ### Cost Structure Insights
-- [To be completed as analysis progresses]
-- Rent, Living Cost, and Tuition form a cluster of interrelated cost variables. Places with higher tuition tend to have higher rent (.72). Rent increases as Living Cost increases (.81)
+- Strong correlation between rent, living cost, and tuition (correlation coefficients: 0.72-0.81)
+- Total Cost of Attendance (TCA) shows clear patterns based on program type and location
+- Identified distinct affordability tiers across the dataset
 ![Correlation Heatmap](images/correlation_heatmap.png)
 
-### Outlier Detection
-- [To be completed as analysis progresses]
+### Model Development Results
+
+#### 1. TCA Prediction Models
+- Developed regression models to predict Total Cost of Attendance
+- Random Forest Regressor achieved superior performance
+- Key predictive features identified:
+  - Tuition and living costs
+  - Program duration
+  - Location-based factors
+
+#### 2. Affordability Classification
+- Created models to classify programs into affordability tiers
+- Achieved high accuracy in identifying extreme cases (high/low cost)
+- Most reliable for strategic program selection
+
+#### 3. Cost Pattern Clustering
+- Identified 4 distinct program clusters based on cost patterns
+- Clear separation between premium and budget-friendly options
+- Useful for program categorization and comparison
 
 ## Next Steps
 
 ### Immediate Tasks
-1. **Complete EDA Objectives**:
-   - Correlation analysis between cost variables
-   - Total Cost of Attendance (TCA) calculation and analysis
-   - Outlier detection and assessment
-   - Currency conversion stability analysis
+1. **Model Optimization**:
+   - Fine-tune models using GridSearchCV
+   - Implement cross-validation for robust evaluation
+   - Create prediction interface for stakeholders
 
-2. **Improve Visualizations**:
-   - Fix seaborn deprecation warnings
-   - Add more comprehensive distribution plots
-   - Create interactive visualizations using Plotly
+2. **Visualization Enhancement**:
+   - Add interactive visualizations using Plotly
+   - Create dashboard for cost exploration
+   - Improve cluster visualization
 
-3. **Feature Engineering Preparation**:
-   - Identify key features for modeling
-   - Plan encoding strategies for categorical variables
-   - Design derived features for cost analysis
+3. **Documentation and Reporting**:
+   - Complete detailed model documentation
+   - Prepare presentation of findings
+   - Document recommendations for stakeholders
 
-### Phase 2 Preparation
-- Set up MLflow for experiment tracking
-- Plan model development pipeline
-- Design evaluation metrics for regression and classification tasks
+## Interactive Dashboard
+
+### Running the Streamlit App
+1. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd submissions/team-members/frank-brown
+   ```
+
+3. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+   ```
+
+4. Open your browser and visit `http://localhost:8501`
+
+### Dashboard Features
+- **Overview**: Global statistics and interactive world map visualization
+- **Cost Explorer**: Dynamic filtering and analysis of education costs
+- **Program Comparison**: Side-by-side comparison of different programs
+- **Cost Predictor**: ML-powered cost prediction tool
 
 ## Technical Environment
 - **Python Version**: 3.x
-- **Key Libraries**: pandas, numpy, matplotlib, seaborn, plotly, scikit-learn
+- **Key Libraries**: 
+  - Data Analysis: pandas, numpy
+  - Machine Learning: scikit-learn, joblib
+  - Visualization: matplotlib, seaborn, plotly
+  - Web App: streamlit, streamlit-option-menu
+  - Interactive Tools: ipywidgets
 - **Virtual Environment**: Manually configured venv
 - **IDE**: Cursor with Jupyter notebook support
 
@@ -80,4 +130,4 @@ For questions about this analysis, please reach out through the project's contri
 
 ---
 *Last Updated: [Current Date]*
-*Project Phase: 1 - EDA*
+*Project Phase: 2 - Model Development*

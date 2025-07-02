@@ -1,0 +1,1162 @@
+Feature,Importance
+Tuition_USD,0.578050170454717
+Rent_USD,0.2525535592955044
+Duration_Years,0.10134746761807946
+Country_USA,0.02419601097852832
+Insurance_USD,0.021050326709013568
+Level_Master,0.020319338837390993
+Living_Cost_Index,0.000886593638779407
+University_Stanford University,0.0007290573204220214
+Level_PhD,0.00029596958477782484
+City_Stanford,9.42871000053061e-05
+University_École Polytechnique,7.578353001974155e-05
+Country_UAE,3.6106430956320275e-05
+Country_Japan,2.4610056909361633e-05
+University_Trinity College Dublin,2.3280357644577044e-05
+University_University of Florida,2.17300074976177e-05
+Visa_Fee_USD,2.0771705368981416e-05
+City_Seattle,2.0056280528984664e-05
+City_Hamilton,1.9243224510599807e-05
+City_Prince George,1.768359367064337e-05
+City_Sudbury,1.5735865006089378e-05
+University_Laurentian University,1.485427604685116e-05
+Program_Quantum Computing,1.4204136066739978e-05
+University_UNBC,1.3299808656979819e-05
+University_American University in Cairo,1.1590777094129414e-05
+City_Bilbao,1.1343693912450945e-05
+City_Beijing,1.1084162722579818e-05
+University_University of Geneva,9.997894212345532e-06
+Country_Netherlands,9.775087886346264e-06
+Program_Computer Science,9.534830838186436e-06
+Program_Industrial Engineering,9.073838362994126e-06
+University_University of the Basque Country,7.841938192192046e-06
+Program_Chemical Engineering,6.054723606864599e-06
+City_Riyadh,6.053992464179791e-06
+University_University of Washington,3.943819086777309e-06
+University_Griffith University,3.887490247240875e-06
+University_Arizona State University,3.855833792290433e-06
+City_Halifax,3.6821317943939874e-06
+City_Minneapolis,3.6350823392170155e-06
+University_McMaster University,3.56600124716683e-06
+University_Ajman University,3.4351642961458864e-06
+City_Fujairah,3.1121017637957256e-06
+City_Geneva,3.0815310688937965e-06
+City_Zurich,3.0210927296468388e-06
+University_Kingston University,2.91009638797118e-06
+University_Oxford Brookes University,2.8622258347759785e-06
+City_Ajman,2.841621530886876e-06
+University_Dalhousie University,2.796570802250491e-06
+Program_Computer Engineering,2.7672472645840367e-06
+University_University of Canberra,2.5542291171899443e-06
+City_Oulu,2.234743459414207e-06
+City_Kanazawa,2.177223235626899e-06
+University_Leiden University,1.9158240440581415e-06
+University_Lebanese American University,1.7934773808902197e-06
+University_Nord University,1.6753967930482536e-06
+City_London,1.6503752267970703e-06
+Program_Artificial Intelligence,1.2639231243488763e-06
+Program_Robotics,9.650294726476982e-07
+City_West Lafayette,8.186960381082534e-07
+City_San Francisco,7.767475944403956e-07
+City_Kyoto,2.84574933356657e-07
+University_Seoul National University,0.0
+University_Selcuk University,0.0
+University_Sapienza University,0.0
+Program_Environmental Computing,0.0
+University_Samarkand State University,0.0
+University_Samara State University,0.0
+University_Shanghai Jiao Tong University,0.0
+University_SUSTech,0.0
+University_SUST,0.0
+University_SMU,0.0
+University_SUTD,0.0
+University_Singapore Management University,0.0
+University_Sichuan University,0.0
+University_Sofia University,0.0
+University_Sorbonne University,0.0
+University_Southern Cross University,0.0
+University_Southern Federal University,0.0
+Program_Physics,0.0
+University_Sun Yat-sen University,0.0
+University_Swansea University,0.0
+Program_Photonics,0.0
+University_Szechenyi Istvan University,0.0
+University_TU Braunschweig,0.0
+University_TU Darmstadt,0.0
+University_TU Delft,0.0
+University_SIT,0.0
+University_Royal University for Women,0.0
+Program_Psychology,0.0
+Program_Quantum Engineering,0.0
+University_Politehnica University,0.0
+University_Politecnico di Torino,0.0
+University_Politecnico di Milano,0.0
+University_Plovdiv University,0.0
+University_Peking University,0.0
+University_PUCP,0.0
+University_PUCMM,0.0
+University_TU Hamburg,0.0
+University_PUC-Rio,0.0
+University_Ovidius University,0.0
+University_Oregon State University,0.0
+University_Novosibirsk State University,0.0
+University_Norwegian University of Life Sciences,0.0
+University_Northumbria University,0.0
+University_Port Said University,0.0
+University_Portland State University,0.0
+University_Prince of Songkla University,0.0
+University_Princeton University,0.0
+University_Purdue University,0.0
+University_Pusan National University,0.0
+University_Quality Leadership University,0.0
+University_Queen Mary University of London,0.0
+University_Queen's University,0.0
+University_Queensland University of Technology,0.0
+University_RAK University,0.0
+University_RMIT University,0.0
+University_RUET,0.0
+University_RWTH Aachen,0.0
+University_Radboud University,0.0
+University_Reykjavik University,0.0
+University_Royal Holloway University,0.0
+University_TU Dresden,0.0
+University_Technical University Berlin,0.0
+University_TU Munich,0.0
+University_UKM,0.0
+Program_Petroleum Engineering,0.0
+University_UNICAMP,0.0
+University_USC,0.0
+University_USI,0.0
+University_USI Lugano,0.0
+University_USIM,0.0
+University_USM,0.0
+University_UT Austin,0.0
+University_UTAD,0.0
+University_UTEC,0.0
+University_UTESA,0.0
+University_UTM,0.0
+University_UTPL,0.0
+University_UWE Bristol,0.0
+University_Udayana University,0.0
+Program_Medicine,0.0
+University_UiT Arctic University,0.0
+University_UiTM,0.0
+University_Ulsan National Institute of Science and Technology,0.0
+University_Ulster University,0.0
+University_Uludag University,0.0
+University_Umeå University,0.0
+University_Umm Al-Qura University,0.0
+University_Universidad Autonoma de Yucatan,0.0
+University_Universidad Catolica,0.0
+University_Universidad Central Este,0.0
+University_Universidad Don Bosco,0.0
+University_Universidad Latina,0.0
+University_Universidad Metropolitana,0.0
+University_UNAM,0.0
+University_UIUC,0.0
+University_TU Wien,0.0
+University_UIS,0.0
+University_Taif University,0.0
+University_Tampere University,0.0
+University_Technical University Varna,0.0
+University_Technical University of Crete,0.0
+University_Technical University of Denmark,0.0
+University_Technical University of Munich,0.0
+University_Tecnologico de Monterrey,0.0
+University_Tecnológico de Monterrey,0.0
+University_Tel Aviv University,0.0
+University_Texas A&M University,0.0
+University_Thaksin University,0.0
+University_Tilburg University,0.0
+University_Tomsk State University,0.0
+University_Transilvania University,0.0
+Program_Pharmaceutical Sciences,0.0
+University_Tsinghua University,0.0
+University_UAE University,0.0
+University_UC Berkeley,0.0
+University_UC Berkeley Extension,0.0
+University_UC Davis,0.0
+University_UC San Diego,0.0
+University_UCLA,0.0
+University_UCLouvain,0.0
+University_UCNE,0.0
+University_UDLAP,0.0
+University_UFBA,0.0
+University_UFPE,0.0
+University_UFRGS,0.0
+University_UFSC,0.0
+University_Northeastern University,0.0
+University_National University of Rosario,0.0
+University_Newcastle University,0.0
+University_Iceland University of Arts,0.0
+University_Holy Spirit University,0.0
+Program_Sustainable Technology,0.0
+University_Humboldt University,0.0
+University_IIT Bombay,0.0
+University_IIT Hyderabad,0.0
+University_IIT Kanpur,0.0
+University_IIT Madras,0.0
+Program_Software Systems,0.0
+University_INHA University Tashkent,0.0
+University_INSA Toulouse,0.0
+University_INTEC,0.0
+University_ISAE University,0.0
+University_ITCA-FEPADE,0.0
+University_ITMO University,0.0
+University_Igor Sikorsky Kyiv Polytechnic,0.0
+University_Hasselt University,0.0
+University_Imam Abdulrahman University,0.0
+Program_Software Science,0.0
+University_Imperial College London,0.0
+University_Indian Institute of Science,0.0
+University_Institut Teknologi Bandung,0.0
+University_Institut Teknologi Sepuluh,0.0
+University_Isfahan University of Technology,0.0
+University_Islamic University,0.0
+University_Jagiellonian University,0.0
+University_James Cook University,0.0
+University_Johannes Kepler University,0.0
+University_John von Neumann University,0.0
+University_Johns Hopkins,0.0
+University_KAIST,0.0
+University_Heriot-Watt University,0.0
+University_Hassan II University,0.0
+University_KTH Royal Institute,0.0
+University_Federation University,0.0
+University_Democritus University,0.0
+University_Diponegoro University,0.0
+University_Dnipro Polytechnic,0.0
+University_Dong-A University,0.0
+University_Duke University,0.0
+University_Durham University,0.0
+University_EPFL,0.0
+University_ESPOL,0.0
+University_ETH Basel,0.0
+University_ETH Zurich,0.0
+University_Erasmus University,0.0
+University_Erciyes University,0.0
+University_European Business University,0.0
+University_Faculty of Logistics,0.0
+University_Ferdowsi University,0.0
+University_Harvard University,0.0
+University_Fudan University,0.0
+University_Fujairah University,0.0
+University_Georgia Tech,0.0
+University_Ghent University,0.0
+University_Girne American University,0.0
+University_Goethe University,0.0
+University_Grenoble INP,0.0
+Program_Technology & Innovation,0.0
+University_Gulf University for Science,0.0
+Program_Systems Engineering,0.0
+University_HCMUT,0.0
+University_HKUST,0.0
+University_Hanbat National University,0.0
+University_Hanyang University,0.0
+University_KIT,0.0
+University_KU Leuven,0.0
+University_National University of Singapore,0.0
+University_NTNU Gjøvik,0.0
+University_Mansoura University,0.0
+University_Maynooth University,0.0
+University_McGill University,0.0
+Program_Social Sciences,0.0
+University_Memorial University,0.0
+University_Middle East Technical University,0.0
+University_Mohammed I University,0.0
+University_Mohammed V University,0.0
+University_Monash University,0.0
+University_Montanuniversität Leoben,0.0
+University_Moscow State University,0.0
+University_Multimedia University,0.0
+University_NC State University,0.0
+University_NTNU,0.0
+Program_Robotics Engineering,0.0
+University_MIT,0.0
+University_NTU,0.0
+University_NTU Singapore,0.0
+University_NUI Galway,0.0
+University_NUS,0.0
+University_Nagoya University,0.0
+University_Namangan Institute,0.0
+Program_Robotics & AI,0.0
+University_Nanjing University,0.0
+University_Nanyang Technological University,0.0
+University_National Taiwan University,0.0
+University_National Technical University,0.0
+University_National University of Cordoba,0.0
+University_National University of La Plata,0.0
+University_Universidad Nacional de Trujillo,0.0
+University_Maastricht University,0.0
+University_Lviv Polytechnic,0.0
+University_Kanazawa University,0.0
+University_Kyungpook National University,0.0
+University_Karlstad University,0.0
+University_Keele University,0.0
+University_Khalifa University,0.0
+University_Khon Kaen University,0.0
+University_Khulna University,0.0
+University_King Faisal University,0.0
+University_King Saud University,0.0
+University_King's College London,0.0
+Program_Software Engineering,0.0
+University_Kobe University,0.0
+University_Korea University,0.0
+University_Kuwait University,0.0
+University_Kwame Nkrumah University,0.0
+University_Kyoto University,0.0
+University_Kyushu University,0.0
+University_Luxembourg Institute of Science,0.0
+University_LMU Munich,0.0
+University_LUT University,0.0
+University_Lakehead University,0.0
+University_Lancaster University,0.0
+Program_Software Development,0.0
+University_Laval University,0.0
+University_Lebanese International,0.0
+University_Leeds Beckett University,0.0
+University_Leibniz University,0.0
+University_Lincoln University,0.0
+University_Linköping University,0.0
+University_Linnaeus University,0.0
+University_Lodz University of Technology,0.0
+University_Lund University,0.0
+University_Universidad Nacional,0.0
+University_Universidad San Antonio Abad,0.0
+University_Universidad ORT Uruguay,0.0
+University_University of Turku,0.0
+University_University of Stuttgart,0.0
+University_University of Subotica,0.0
+University_University of Sussex,0.0
+University_University of Sydney,0.0
+University_University of Szeged,0.0
+University_University of Tabuk,0.0
+University_University of Tasmania,0.0
+University_University of Technology Sydney,0.0
+University_University of Texas Austin,0.0
+University_University of Thessaly,0.0
+University_University of Tlemcen,0.0
+University_University of Toronto,0.0
+University_University of Toulouse,0.0
+University_University of Tunis,0.0
+University_University of Twente,0.0
+University_University of Strasbourg,0.0
+University_University of Vaasa,0.0
+University_University of Victoria,0.0
+University_University of Vienna,0.0
+University_University of Waikato,0.0
+University_University of Warsaw,0.0
+University_University of Warwick,0.0
+Program_International Relations,0.0
+University_University of Waterloo,0.0
+University_University of Western Australia,0.0
+University_University of Windsor,0.0
+University_University of Wisconsin-Madison,0.0
+University_University of Wollongong,0.0
+University_University of Zadar,0.0
+University_University of Zagreb,0.0
+University_University of Strathclyde,0.0
+University_University of Stavanger,0.0
+University_University of the Aegean,0.0
+University_University of Rijeka,0.0
+University_University of Oulu,0.0
+University_University of Oxford,0.0
+University_University of Padua,0.0
+University_University of Pannonia,0.0
+University_University of Patras,0.0
+University_University of Pecs,0.0
+University_University of Pennsylvania,0.0
+University_University of Piraeus,0.0
+University_University of Pisa,0.0
+University_University of Plymouth,0.0
+University_University of Primorska,0.0
+University_University of Queensland,0.0
+University_University of Reading,0.0
+University_University of Regina,0.0
+University_University of Ruse,0.0
+University_University of St. Gallen,0.0
+University_University of Salamanca,0.0
+University_University of Salford,0.0
+University_University of Sao Paulo,0.0
+University_University of Saskatchewan,0.0
+University_University of Science and Technology,0.0
+University_University of Sheffield,0.0
+University_University of Sherbrooke,0.0
+University_University of Silesia,0.0
+University_University of Sousse,0.0
+University_University of South-Eastern Norway,0.0
+University_University of Southampton,0.0
+University_University of Southern Denmark,0.0
+University_University of Southern Queensland,0.0
+University_University of Split,0.0
+University_University of Zaragoza,0.0
+Program_Information Technology,0.0
+University_Universidad Politecnica,0.0
+Program_Finance,0.0
+Program_Computer Science & Design,0.0
+Program_Computer Systems,0.0
+Program_Computing,0.0
+Program_Forestry Sciences,0.0
+Program_Computing & Innovation,0.0
+Program_Computing Science,0.0
+Program_Cybersecurity,0.0
+Program_Data Analytics,0.0
+Program_Data Engineering,0.0
+Program_Data Science,0.0
+Program_Data Science & AI,0.0
+Program_Data Systems,0.0
+Program_Design,0.0
+Program_Digital Business,0.0
+Program_Digital Design,0.0
+Program_Computational Science,0.0
+Program_Environmental Science,0.0
+Program_Digital Engineering,0.0
+Program_Digital Innovation,0.0
+Program_Digital Media,0.0
+Program_Digital Systems,0.0
+Program_Digital Systems & AI,0.0
+Program_Economics,0.0
+Program_Electrical Engineering,0.0
+Program_Electronic Engineering,0.0
+Program_Electronics,0.0
+Program_Electronics Engineering,0.0
+Program_Energy Engineering,0.0
+Program_Engineering,0.0
+Program_Engineering Management,0.0
+Program_Game Technology,0.0
+Program_Climate Science,0.0
+Program_Information Systems,0.0
+University_Yeungnam University,0.0
+University_Université de Lille,0.0
+University_Ural Federal University,0.0
+University_Utrecht University,0.0
+University_VU Amsterdam,0.0
+University_Vanderbilt University,0.0
+University_Victoria University,0.0
+Program_Information Security,0.0
+University_Vrije Universiteit Brussel,0.0
+University_Wageningen University,0.0
+University_Waterford IT,0.0
+University_Western University,0.0
+University_Wroclaw University of Technology,0.0
+University_Wuhan University,0.0
+University_Yale University,0.0
+University_Yonsei University,0.0
+Program_Chemistry,0.0
+University_ZHAW,0.0
+University_Zhejiang University,0.0
+University_École Normale Supérieure,0.0
+University_École Normale Supérieure Lyon,0.0
+Program_Information Science,0.0
+Program_Aerospace Engineering,0.0
+Program_Applied Mathematics,0.0
+Program_Architecture,0.0
+Program_Bioinformatics,0.0
+Program_Biomedical Sciences,0.0
+Program_Biotechnology,0.0
+Program_Business,0.0
+Program_Business Analytics,0.0
+Program_Industrial Management,0.0
+University_University of Ottawa,0.0
+University_University of Otago,0.0
+University_University of Oslo,0.0
+University_University of Canterbury,0.0
+University_University of Barcelona,0.0
+University_University of Basel,0.0
+University_University of Bath,0.0
+University_University of Belgrade,0.0
+University_University of Bern,0.0
+University_University of Birmingham,0.0
+University_University of Bologna,0.0
+University_University of Bordeaux,0.0
+University_University of Bremen,0.0
+University_University of Bristol,0.0
+University_University of British Columbia,0.0
+University_University of Buenos Aires,0.0
+University_University of Calgary,0.0
+University_University of Cambridge,0.0
+University_University of Cape Coast,0.0
+University_University of Aveiro,0.0
+University_University of Cape Town,0.0
+University_University of Carthage,0.0
+University_University of Chicago,0.0
+University_University of Cologne,0.0
+University_University of Colorado,0.0
+University_University of Constantine,0.0
+University_University of Copenhagen,0.0
+University_University of Craiova,0.0
+University_University of Crete,0.0
+University_University of Cyprus,0.0
+University_University of Debrecen,0.0
+University_University of Denver,0.0
+University_University of Dubai,0.0
+University_University of Dubrovnik,0.0
+University_University of Bahrain,0.0
+University_University of Auckland,0.0
+University_University of Oran,0.0
+University_Universidad de Sonsonate,0.0
+University_Universidad San Agustin,0.0
+Program_Engineering Physics,0.0
+University_Universidad San Francisco,0.0
+University_Universidad San Martin,0.0
+University_Universidad Tecnica,0.0
+University_Universidad Tecnologica,0.0
+University_Universidad de Cartagena,0.0
+University_Universidad de Cuenca,0.0
+University_Universidad de Granada,0.0
+University_Universidad de Guadalajara,0.0
+University_Universidad de Oriente,0.0
+University_Universidad de Paysandu,0.0
+University_Universidad de Piura,0.0
+University_Universidad de Sevilla,0.0
+University_Universidad de Valencia,0.0
+University_University of Antwerp,0.0
+University_Universidad de la Republica,0.0
+University_Universidad del Valle,0.0
+University_Universitat de Barcelona,0.0
+University_Universitat de València,0.0
+University_University College London,0.0
+University_University Politehnica,0.0
+University_University for Development,0.0
+University_Coventry University,0.0
+University_University of Adelaide,0.0
+University_University of Akureyri,0.0
+University_University of Al Quaraouiyine,0.0
+University_University of Alberta,0.0
+University_University of Algarve,0.0
+University_University of Amsterdam,0.0
+University_University of Dundee,0.0
+University_University of Eastern Finland,0.0
+University_University of Edinburgh,0.0
+University_University of Minnesota,0.0
+University_University of Ljubljana,0.0
+University_University of Lucerne,0.0
+University_University of Lyon,0.0
+Program_Marine Biology,0.0
+University_University of Macedonia,0.0
+University_University of Madeira,0.0
+University_University of Malaya,0.0
+University_University of Manchester,0.0
+University_University of Manitoba,0.0
+Program_Machine Learning,0.0
+University_University of Maribor,0.0
+University_University of Melbourne,0.0
+University_University of Michigan,0.0
+University_University of Minho,0.0
+University_University of Miskolc,0.0
+University_University of Essex,0.0
+University_University of Monastir,0.0
+University_University of Mons,0.0
+University_University of Montpellier,0.0
+University_University of Montreal,0.0
+University_University of Naples,0.0
+University_University of Neuchatel,0.0
+University_University of New Brunswick,0.0
+University_University of New England,0.0
+University_University of New South Wales,0.0
+University_University of Newcastle,0.0
+University_University of Nice,0.0
+University_University of Nottingham,0.0
+University_University of Nova Gorica,0.0
+University_University of Novi Sad,0.0
+University_University of Liverpool,0.0
+University_University of Lisbon,0.0
+University_University of Limerick,0.0
+University_University of Lille,0.0
+University_University of Florence,0.0
+Program_Mechatronics,0.0
+University_University of Freiburg,0.0
+University_University of Fribourg,0.0
+University_University of Gabes,0.0
+Program_Mechanical Engineering,0.0
+University_University of Ghana,0.0
+University_University of Glasgow,0.0
+University_University of Granada,0.0
+University_University of Greenwich,0.0
+University_University of Groningen,0.0
+University_University of Hamburg,0.0
+University_University of Health Sciences,0.0
+University_University of Helsinki,0.0
+University_University of Hull,0.0
+University_University of Iceland,0.0
+University_University of Illinois Urbana-Champaign,0.0
+Program_Mathematics,0.0
+University_University of Indonesia,0.0
+Program_Marine Technology,0.0
+University_University of Innsbruck,0.0
+University_University of Ioannina,0.0
+University_University of Jena,0.0
+University_University of Jyväskylä,0.0
+University_University of Kent,0.0
+University_University of Klagenfurt,0.0
+University_University of Kragujevac,0.0
+University_University of Leeds,0.0
+University_University of Liege,0.0
+University_University of Aberdeen,0.0
+Country_Argentina,0.0
+University_Cornell University,0.0
+City_Durham,0.0
+City_Essex,0.0
+City_Espoo,0.0
+City_Eskisehir,0.0
+City_Enschede,0.0
+City_Edmonton,0.0
+City_Edinburgh,0.0
+City_Dunedin,0.0
+City_Fez,0.0
+City_Dundee,0.0
+City_Dubrovnik,0.0
+City_Dublin,0.0
+City_Dubai,0.0
+City_Dresden,0.0
+City_Dnipro,0.0
+City_Faro,0.0
+City_Florence,0.0
+City_Greenwich,0.0
+City_Galway,0.0
+City_Gold Coast,0.0
+City_Glasgow,0.0
+City_Gjøvik,0.0
+City_Giza,0.0
+City_Girne,0.0
+City_Ghent,0.0
+City_Gainesville,0.0
+City_Florianopolis,0.0
+City_Gabes,0.0
+City_Funchal,0.0
+City_Fukuoka,0.0
+City_Fribourg,0.0
+City_Freiburg,0.0
+City_Frankfurt,0.0
+City_Dhaka,0.0
+City_Denver,0.0
+City_Denpasar,0.0
+City_Chiclayo,0.0
+City_Cologne,0.0
+City_College Station,0.0
+City_Cluj-Napoca,0.0
+City_Christchurch,0.0
+City_Chitré,0.0
+City_Chios,0.0
+City_Chicago,0.0
+City_Delft,0.0
+City_Chiang Mai,0.0
+City_Chennai,0.0
+City_Chengdu,0.0
+City_Chania,0.0
+City_Celje,0.0
+City_Casablanca,0.0
+City_Constanta,0.0
+City_Constantine,0.0
+City_Copenhagen,0.0
+City_Cordoba,0.0
+City_Corvallis,0.0
+City_Coventry,0.0
+City_Craiova,0.0
+City_Cuenca,0.0
+City_Cusco,0.0
+City_Cyberjaya,0.0
+City_Daegu,0.0
+City_Daejeon,0.0
+City_Dammam,0.0
+City_Darmstadt,0.0
+City_David,0.0
+City_Davis,0.0
+City_Debrecen,0.0
+City_Granada,0.0
+City_Grenoble,0.0
+City_Cardiff,0.0
+City_Khon Kaen,0.0
+City_Konya,0.0
+City_Kolding,0.0
+City_Kobe,0.0
+City_Klagenfurt,0.0
+City_Kingston,0.0
+City_Khulna,0.0
+City_Kent,0.0
+City_Koper,0.0
+City_Keele,0.0
+City_Kecskemet,0.0
+City_Kayseri,0.0
+City_Katowice,0.0
+City_Karlstad,0.0
+City_Karlsruhe,0.0
+City_Kopavogur,0.0
+City_Kragujevac,0.0
+City_Groningen,0.0
+City_La Romana,0.0
+City_Leiden,0.0
+City_Leeds,0.0
+City_Lausanne,0.0
+City_Larnaca,0.0
+City_Lappeenranta,0.0
+City_Lancaster,0.0
+City_La Plata,0.0
+City_Krakow,0.0
+City_La Chorrera,0.0
+City_Kyiv,0.0
+City_Kuwait City,0.0
+City_Kuopio,0.0
+City_Kumasi,0.0
+City_Kuala Lumpur,0.0
+City_Kanpur,0.0
+City_Jyväskylä,0.0
+City_Jounieh,0.0
+City_Hangzhou,0.0
+City_Heriot-Watt,0.0
+City_Heraklion,0.0
+City_Helsinki,0.0
+City_Hawalli,0.0
+City_Hasselt,0.0
+City_Hannover,0.0
+City_Hamburg,0.0
+City_Johor Bahru,0.0
+City_Hafnarfjordur,0.0
+City_Gyor,0.0
+City_Gwangju,0.0
+City_Guayaquil,0.0
+City_Guangzhou,0.0
+City_Guadalajara,0.0
+City_Herning,0.0
+City_Ho,0.0
+City_Ho Chi Minh City,0.0
+City_Hobart,0.0
+City_Hong Kong,0.0
+City_Horten,0.0
+City_Hull,0.0
+City_Hyderabad,0.0
+City_Iasi,0.0
+City_Innsbruck,0.0
+City_Ioannina,0.0
+City_Isfahan,0.0
+City_Istanbul,0.0
+City_Ithaca,0.0
+City_Jakarta,0.0
+City_Jena,0.0
+City_Joensuu,0.0
+City_Cartagena,0.0
+City_Cape Town,0.0
+University_Columbia University,0.0
+Country_Portugal,0.0
+Country_Slovenia,0.0
+Country_Singapore,0.0
+Country_Serbia,0.0
+Country_Saudi Arabia,0.0
+Country_Russia,0.0
+Country_Romania,0.0
+Country_Poland,0.0
+Country_South Korea,0.0
+Country_Peru,0.0
+Country_Panama,0.0
+Country_Norway,0.0
+Country_New Zealand,0.0
+Country_Morocco,0.0
+Country_Mexico,0.0
+Country_South Africa,0.0
+Country_Spain,0.0
+City_Adelaide,0.0
+Country_Uruguay,0.0
+City_Abu Dhabi,0.0
+City_Aberdeen,0.0
+City_Aarhus,0.0
+City_Aalborg,0.0
+Country_Vietnam,0.0
+Country_Uzbekistan,0.0
+Country_Ukraine,0.0
+Country_Sweden,0.0
+Country_UK,0.0
+Country_Turkey,0.0
+Country_Tunisia,0.0
+Country_Thailand,0.0
+Country_Taiwan,0.0
+Country_Switzerland,0.0
+Country_Malaysia,0.0
+Country_Luxembourg,0.0
+Country_Lebanon,0.0
+Country_China,0.0
+Country_Dominican Republic,0.0
+Country_Denmark,0.0
+Country_Czech Republic,0.0
+Country_Cyprus,0.0
+Country_Croatia,0.0
+Country_Colombia,0.0
+Country_Canada,0.0
+Country_Kuwait,0.0
+Country_Bulgaria,0.0
+Country_Brazil,0.0
+Country_Belgium,0.0
+Country_Bangladesh,0.0
+Country_Bahrain,0.0
+Country_Austria,0.0
+Country_Ecuador,0.0
+Country_Egypt,0.0
+Country_El Salvador,0.0
+Country_Finland,0.0
+Country_France,0.0
+Country_Germany,0.0
+Country_Ghana,0.0
+Country_Greece,0.0
+Country_Hong Kong,0.0
+Country_Hungary,0.0
+Country_Iceland,0.0
+Country_India,0.0
+Country_Indonesia,0.0
+Country_Iran,0.0
+Country_Ireland,0.0
+Country_Israel,0.0
+Country_Italy,0.0
+City_Accra,0.0
+City_Akureyri,0.0
+City_Cape Coast,0.0
+City_Bordeaux,0.0
+City_Braunschweig,0.0
+City_Brasov,0.0
+City_Braga,0.0
+City_Boulder,0.0
+City_Boston,0.0
+City_Borgarnes,0.0
+City_Bologna,0.0
+City_Brisbane,0.0
+City_Bogota,0.0
+City_Bodø,0.0
+City_Bizerte,0.0
+City_Birmingham,0.0
+City_Bertrange,0.0
+City_Bern,0.0
+City_Bremen,0.0
+City_Bristol,0.0
+City_Al Ahmadi,0.0
+City_Byblos,0.0
+City_Canberra,0.0
+City_Campinas,0.0
+City_Cambridge,0.0
+City_Cali,0.0
+City_Calgary,0.0
+City_Cairo,0.0
+City_Busan,0.0
+City_Brussels,0.0
+City_Bursa,0.0
+City_Bukhara,0.0
+City_Buenos Aires,0.0
+City_Budapest,0.0
+City_Bucharest,0.0
+City_Bucaramanga,0.0
+City_Berlin,0.0
+City_Berkeley,0.0
+City_Belval,0.0
+City_Andijan,0.0
+City_Armidale,0.0
+City_Arequipa,0.0
+City_Antwerp,0.0
+City_Antalya,0.0
+City_Ann Arbor,0.0
+City_Ankara,0.0
+City_Amsterdam,0.0
+City_Belgrade,0.0
+City_Ambato,0.0
+City_Algiers,0.0
+City_Alexandria,0.0
+City_Al-Ahsa,0.0
+City_Al Jahra,0.0
+City_Al Ain,0.0
+City_Aston,0.0
+City_Aswan,0.0
+City_Athens,0.0
+City_Atlanta,0.0
+City_Auckland,0.0
+City_Austin,0.0
+City_Aveiro,0.0
+City_Ballarat,0.0
+City_Baltimore,0.0
+City_Bandung,0.0
+City_Bangalore,0.0
+City_Bangi,0.0
+City_Bangkok,0.0
+City_Barcelona,0.0
+City_Basel,0.0
+City_Bath,0.0
+City_Beirut,0.0
+City_Leoben,0.0
+City_Leuven,0.0
+City_Liege,0.0
+City_Tijuana,0.0
+City_Toronto,0.0
+City_Toowoomba,0.0
+City_Tomsk,0.0
+City_Tlemcen,0.0
+City_Timisoara,0.0
+City_Tilburg,0.0
+City_Thunder Bay,0.0
+City_Townsville,0.0
+City_Thessaloniki,0.0
+City_Tempe,0.0
+City_Tel Aviv,0.0
+City_Tashkent,0.0
+City_Tangier,0.0
+City_Tampere,0.0
+City_Toulouse,0.0
+City_Tromsø,0.0
+City_Victoria,0.0
+City_Urbana,0.0
+City_Varna,0.0
+City_Vancouver,0.0
+City_Valencia,0.0
+City_Vaasa,0.0
+City_Utrecht,0.0
+City_Urbana-Champaign,0.0
+City_Umeå,0.0
+City_Trondheim,0.0
+City_Ulster,0.0
+City_Ulsan,0.0
+City_Turku,0.0
+City_Turin,0.0
+City_Tunis,0.0
+City_Trujillo,0.0
+City_Tamale,0.0
+City_Taipei,0.0
+City_Taif,0.0
+City_Sherbrooke,0.0
+City_Sousse,0.0
+City_Sonsonate,0.0
+City_Songkhla,0.0
+City_Sofia,0.0
+City_Singapore,0.0
+City_Sidon,0.0
+City_Shenzhen,0.0
+City_Tabuk,0.0
+City_Sheffield,0.0
+City_Sharjah,0.0
+City_Shanghai,0.0
+City_Shah Alam,0.0
+City_Seville,0.0
+City_Seoul,0.0
+City_Southampton,0.0
+City_Split,0.0
+City_St. Gallen,0.0
+City_St. John's,0.0
+City_Stavanger,0.0
+City_Stockholm,0.0
+City_Strasbourg,0.0
+City_Strathclyde,0.0
+City_Stuttgart,0.0
+City_Subotica,0.0
+City_Sunshine Coast,0.0
+City_Surabaya,0.0
+City_Sussex,0.0
+City_Swansea,0.0
+City_Sydney,0.0
+City_Sylhet,0.0
+City_Szeged,0.0
+City_Veszprem,0.0
+City_Vienna,0.0
+City_Lille,0.0
+University_Aristotle University,0.0
+University_Babes-Bolyai University,0.0
+University_Australian National University,0.0
+University_Australian College Kuwait,0.0
+University_Athens University of Economics,0.0
+University_Aswan University,0.0
+University_Aston University,0.0
+University_Arabian Gulf University,0.0
+University_Bifrost University,0.0
+University_Applied Science University,0.0
+University_Anglia Ruskin University,0.0
+University_Andijan State University,0.0
+University_Anadolu University,0.0
+University_American University of Sharjah,0.0
+University_American University of Beirut,0.0
+University_Bangladesh University of Engineering,0.0
+University_Bogazici University,0.0
+City_Vila Real,0.0
+University_Chamber of Commerce School,0.0
+University_Chungnam National University,0.0
+University_Chulalongkorn University,0.0
+University_Chosun University,0.0
+University_Chonnam National University,0.0
+University_Chiang Mai University,0.0
+University_Charles University,0.0
+University_Carnegie Mellon,0.0
+University_Brawijaya University,0.0
+University_Cardiff University,0.0
+University_Cairo University,0.0
+University_Cadi Ayyad University,0.0
+Country_Australia,0.0
+University_Bukhara State University,0.0
+University_Budapest University of Technology,0.0
+University_American University in Dubai,0.0
+University_American University Kuwait,0.0
+University_American University Cyprus,0.0
+City_Waterloo,0.0
+City_Wroclaw,0.0
+City_Wollongong,0.0
+City_Winterthur,0.0
+City_Winnipeg,0.0
+City_Windsor,0.0
+City_Wellington,0.0
+City_Waterford,0.0
+University_Alexandru Ioan Cuza University,0.0
+City_Warwick,0.0
+City_Warsaw,0.0
+City_Walferdange,0.0
+City_Wageningen,0.0
+City_Växjö,0.0
+City_Volos,0.0
+City_Wuhan,0.0
+City_Xanthi,0.0
+City_Yekaterinburg,0.0
+City_Zadar,0.0
+City_Zagreb,0.0
+City_Zaragoza,0.0
+City_Ås,0.0
+University_AUT University,0.0
+University_Aalborg University,0.0
+University_Aalto University,0.0
+University_Aarhus University,0.0
+University_Abdelmalek Essaadi University,0.0
+University_Agricultural University,0.0
+University_Ain Shams University,0.0
+University_Aix-Marseille University,0.0
+University_Akdeniz University,0.0
+University_Alexandria University,0.0
+City_Semarang,0.0
+City_Saskatoon,0.0
+City_Sao Paulo,0.0
+City_Mons,0.0
+City_Muharraq,0.0
+City_Moscow,0.0
+City_Montreal,0.0
+City_Montpellier,0.0
+City_Montevideo,0.0
+City_Monterrey,0.0
+City_Moncton,0.0
+City_Munich,0.0
+City_Monastir,0.0
+City_Miskolc,0.0
+City_Milan,0.0
+City_Mexico City,0.0
+City_Merida,0.0
+City_Melbourne,0.0
+City_Mumbai,0.0
+City_Nagoya,0.0
+City_Santo Domingo,0.0
+City_Nice,0.0
+City_Nova Gorica,0.0
+City_Nottingham,0.0
+City_Northumbria,0.0
+City_Nilai,0.0
+City_Nijmegen,0.0
+City_Nicosia,0.0
+City_Newcastle,0.0
+City_Namangan,0.0
+City_New York,0.0
+City_New Haven,0.0
+City_Neuchatel,0.0
+City_Nashville,0.0
+City_Naples,0.0
+City_Nanjing,0.0
+City_Medina,0.0
+City_Maynooth,0.0
+City_Massachusetts,0.0
+City_Ljubljana,0.0
+City_Lucerne,0.0
+City_Louvain,0.0
+City_Los Angeles,0.0
+City_London ON,0.0
+City_Loja,0.0
+City_Lodz,0.0
+City_Liverpool,0.0
+City_Mashhad,0.0
+City_Lismore,0.0
+City_Lisbon,0.0
+City_Linz,0.0
+City_Linköping,0.0
+City_Limerick,0.0
+City_Lima,0.0
+City_Lugano,0.0
+City_Lund,0.0
+City_Lviv,0.0
+City_Lyngby,0.0
+City_Lyon,0.0
+City_Maastricht,0.0
+City_Madison,0.0
+City_Madrid,0.0
+City_Makkah,0.0
+City_Malang,0.0
+City_Maldonado,0.0
+City_Manama,0.0
+City_Manchester,0.0
+City_Mansoura,0.0
+City_Maribor,0.0
+City_Marrakech,0.0
+City_Marseille,0.0
+City_Novi Sad,0.0
+City_Novosibirsk,0.0
+City_Odense,0.0
+City_Rijeka,0.0
+City_Rotterdam,0.0
+City_Rostov-on-Don,0.0
+City_Rosario,0.0
+City_Rome,0.0
+City_Rivera,0.0
+City_Rio de Janeiro,0.0
+City_Riffa,0.0
+City_Rajshahi,0.0
+City_Rhodes,0.0
+City_Reykjavik,0.0
+City_Regina,0.0
+City_Recife,0.0
+City_Reading,0.0
+City_Ras Al Khaimah,0.0
+City_Royal Holloway,0.0
+City_Ruse,0.0
+City_Saint Petersburg,0.0
+City_Sakhir,0.0
+City_Salamanca,0.0
+City_Salmiya,0.0
+City_Salto,0.0
+City_Salvador,0.0
+City_Samara,0.0
+City_Samarkand,0.0
+City_San Diego,0.0
+City_San Miguel,0.0
+City_San Pedro,0.0
+City_San Salvador,0.0
+City_Santa Ana,0.0
+City_Santa Tecla,0.0
+City_Santiago,0.0
+City_Raleigh,0.0
+City_Rabat,0.0
+City_Oran,0.0
+City_Paris,0.0
+City_Philadelphia,0.0
+City_Perth,0.0
+City_Penang,0.0
+City_Pecs,0.0
+City_Paysandu,0.0
+City_Patras,0.0
+City_Panama City,0.0
+City_Quito,0.0
+City_Padua,0.0
+City_Oxford Brookes,0.0
+City_Oxford,0.0
+City_Oujda,0.0
+City_Ottawa,0.0
+City_Oslo,0.0
+City_Phuket,0.0
+City_Piraeus,0.0
+City_Pisa,0.0
+City_Pittsburgh,0.0
+City_Piura,0.0
+City_Plovdiv,0.0
+City_Plymouth,0.0
+City_Port Said,0.0
+City_Portland,0.0
+City_Porto Alegre,0.0
+City_Prague,0.0
+City_Princeton,0.0
+City_Puebla,0.0
+City_Puerto Plata,0.0
+City_Quebec City,0.0
+City_Queen Mary,0.0
+City_Queretaro,0.0
+University_CETYS Universidad,0.0
